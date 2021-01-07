@@ -1,4 +1,4 @@
-# image-recognition-resnet50-flask
+# Image Recognition resnet50-flask
 
 ## Demo Video
 
